@@ -5,6 +5,11 @@
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
+
+  https://jekyllrb.com/docs/front-matter/
+  https://diogotc.com/
+  https://www.udemy.com/course/ux-design/learn/lecture/9623738#overview
+  https://www.facebook.com/groups/uxenegocios/
 -->
 
 # GitHub Pages
