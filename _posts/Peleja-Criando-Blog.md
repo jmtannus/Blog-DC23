@@ -1,5 +1,5 @@
 ---
-title: "Pense na peleja pra criar esse blog!"
+title: "Pense na peleja pra criar esse blog 2!"
 date: 2023-07-11
 ---
 # Olá pessoal!
