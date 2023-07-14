@@ -28,6 +28,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+<img src=https://octodex.github.com/images/NUX_Octodex.gif alt=celebrate width=300 align=right>
 
 Your blog is now live and has been deployed!
 
