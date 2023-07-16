@@ -46,9 +46,9 @@ Por exemplo, coloque o despertador por 30 minutos e estude, assim que terminar a
 A dica é: Toda vez que voltar pra casa depois da aula, pegue o material e revise, escreva, releia antes de dormir. Ajuda colocar em prática através de atividades e exercícios.
 Dessa maneira você estará não apenas entendendo, mas aprendendo.
 
-🏆 "Por incrivel que possa parecer, é mais importante o tempo que você passa estudando sozinho do que aquele que passa assitindo às aulas"
->Desenvolver sua capacidade de estudar sozinho, seu autodidatismo, é primordial! E para desenvolver o autodidatismo inteligente aconselha um *hobbie*.
->O hobbie é algo que te dá energia para realizar as tarefas mais difíceis e rotineiras como trabalhar. Quando você tem um hobbie como desenhar, jardinagem, marcenaria, tocar violão, etc. Você alivia sua mente, se torna mais
+🏆 "Por incrivel que possa parecer, é mais importante o tempo que você passa estudando sozinho do que aquele que passa assistindo às aulas"
+>Desenvolver sua capacidade de estudar sozinho, seu autodidatismo, é primordial! E para desenvolver o autodidatismo inteligente ele aconselha um *hobbie*.
+>O hobbie é algo que te dá energia para realizar as tarefas mais difíceis e rotineiras como trabalhar. Quando você tem um hobbie como desenhar, jardinagem, marcenaria, tocar violão, etc, você alivia sua mente, se torna mais
 motivado e desenvolve seu autodidatismo.
 
 Tempo aprendendo tem que ser bem proveitoso! Daí segui essa dica de ouro transformando esse blog em um hobbie. Proximos posts serão também sobre o que eu estudei no dia. Juntando a fome com a vontade de comer! 👍 Mas além disso darei continuidade às aulas de violão e beach tennis. Como disseram: "Um hobbie faz
@@ -56,7 +56,7 @@ com que você crie novas conexões neurais, produza mais mielina e deixe seu cé
 
 🏆 " Nunca estude sem ter um lápis em atividade sobre um pedaço de papel
 ---
->Eita desafio! Mas funciona! Quanto mais áreas do cérebro você usa no processo de aprendizagem, mais forte se torna sua memorização.O prof. Pier chamava de **aprendizado ativo**
+>Eita desafio! Mas funciona! Quanto mais áreas do cérebro você usa no processo de aprendizagem, mais forte se torna sua memorização. O prof. Pier chamava de **aprendizado ativo**.
 Quando você estiver estudando tente incluir os outros sentidos além da **visão**:
 >**tato**: Escreva, rabisque o que está lendo. Se você estiver assistindo uma vídeo aula, faça anotações e desenhos rápidos.
 >**audição**: Fale partes do texto em voz alta ou grave para você escutar depois.
@@ -67,7 +67,7 @@ O importante é usar sua criatividade para aprender mais.
  > A leitura tem um papel essencial no desenvolvimento da cognição, responsável pela aquisição de conhecimento. Nós precisamos de alimento para viver, imagine a leitura como o alimento do cérebro. É obvio que seu cérebro não morre se deixar de ler, mas ele se torna mais
 lento e preguiçoso, a leitura funciona como uma aeróbica cerebral.
 
-A dica é pegar um livro que vc gosta do tema e tenha uma meta diária. P ser 10 minutos de leitura ou 10 páginas por dia. Faça isso todos os dias pela
+A dica é pegar um livro que vc gosta do tema e tenha uma meta diária. Pode ser 10 minutos de leitura ou 10 páginas por dia. Faça isso todos os dias pela
 manhã, ou no banheiro, troque o celular📱 pelo livro📖. Pronto, com o tempo você perceberá que seu raciocínio e compreensão estarão mais velozes.
 
 E para concluir:
