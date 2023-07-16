@@ -1,3 +1,7 @@
+---
+title: "Aprendendo-A-Aprender"
+date: 2023-07-12
+---
 # Aprendendo a aprender: 8 ensinamentos pra vida!
 
 Bom dia collegers!
