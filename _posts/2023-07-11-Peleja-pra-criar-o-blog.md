@@ -1,5 +1,4 @@
 ---
-marp: true
 title: "Pense na peleja pra criar esse blog!!"
 date: 2023-07-11
 ---
