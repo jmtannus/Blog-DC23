@@ -1,3 +1,8 @@
+---
+title: "Estudando-Arquitetura-de-BancosdeDados"
+date: 2023-07-16
+---
+
 # Visão Geral de Arquiteturas de Bancos de Dados
 
 Como dizia o eterno prof. Pierluigi Piazzi: "Por incrivel que possa parecer, é mais 
