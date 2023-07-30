@@ -87,5 +87,39 @@ Atualmente, nas redes sociais nos deparamos com o mesmo sentimento. Serão todos
   ### O que me achamou a atenção neste trecho:
 Fernando Pessoa nos passa tranquilidade, apesar do conturbado momento da chegada da guerra em Portugal no início do século passado, em 1914. Este trecho do poema, repleto de referências de uma vida feliz, nos faz querer sentir o que ele está nos desejando. Conseguimos sentir até o cheirinho do mato, o calor do sol e ouvir o som do silêncio, algo tão escasso hoje em dia.
 
+   ### Todas as cartas de amor são Ridículas.
+>Não seriam cartas de amor se não fossem
+Ridículas.
+>
+>Também escrevi em meu tempo cartas de amor,
+Como as outras,
+Ridículas.
+>
+>As cartas de amor, se há amor,
+Têm de ser
+Ridículas.
+>
+>Mas, afinal,
+Só as criaturas que nunca escreveram
+Cartas de amor
+É que são
+Ridículas.
+>
+>Quem me dera no tempo em que escrevia
+Sem dar por isso
+Cartas de amor
+Ridículas.
+>
+>A verdade é que hoje
+As minhas memórias
+Dessas cartas de amor
+É que são
+Ridículas.
+>
+>(Todas as palavras esdrúxulas,
+Como os sentimentos esdrúxulos,
+São naturalmente
+Ridículas). *Álvaro de Campos (Fernando Pessoa)*
 
-
+  ### O que me achamou a atenção neste trecho:
+Me lembrei das aulas de raciocínio lógico. 😅
