@@ -3,9 +3,7 @@ title: "Were-all-mad-here"
 date: 2023-07-15
 ---
 
-# Olá pessoal!
-
-:octocat:
+# :octocat: Olá pessoal! 
 
 ---
 
