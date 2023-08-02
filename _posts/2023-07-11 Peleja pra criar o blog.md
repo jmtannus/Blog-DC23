@@ -2,7 +2,7 @@
 title: "Pense na peleja pra criar esse blog!!"
 date: 2023-07-11
 ---
-# Olá pessoal!
+# 🖋️ Olá pessoal!
 ### Gente, só passei pra dizer que... pense! Peia pra 10 eu levei sozinha! 😄
 
 
