@@ -1,4 +1,4 @@
-# As 8 regras de CSS por Jarno Rantanen
+# 🖋️ As 8 regras de CSS de Jarno Rantanen por Eduardo Rabelo
 
 ## Olá meus queridos leitores! 
 
