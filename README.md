@@ -5,7 +5,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Blog**
-| :label: Tecnologias | Markdown
+| :label: Tecnologias | Markdown, Jekyll
 | :rocket: URL         | https://jmtannus.github.io/Blog-DC23/
 | :fire: Desafio     | 
 
