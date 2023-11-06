@@ -7,14 +7,14 @@ Rápida descrição do objetivo de fazer esse projeto
 | :sparkles: Nome        | **Blog**
 | :label: Tecnologias | Markdown, Jekyll
 | :rocket: URL         | https://jmtannus.github.io/Blog-DC23/
-| :fire: Desafio     | 
+| :fire: Desafio .    | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![1280×640 image](https://github.com/jmtannus/Blog-DC23/assets/61756665/09808be6-03a6-4e1c-bcc8-fd3c6de70882)
 
 ## Detalhes do projeto
 
-<!--Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos. -->
+<!--Textos e imagens que descrevam seu projeto, suas conquistas, seudesafios, próximos passos. -->
 
 
 
