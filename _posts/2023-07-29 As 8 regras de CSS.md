@@ -13,7 +13,7 @@ Bem, como eu não sei dar aula disso (ainda), vou postar as 8 regrinhas e uma br
  
 > 1 - Sempre prefira classes;
 
-  <h6>Não use ID (ex: #header), porque, aonde você pensa que pode ter apenas uma instância de algo, em uma escala infinita, você irá se provar errado. Com algumas exceções, seus estilos devem sempre usar classes.</h6>  
+  <h6>Não use ID (ex: #header), porque, aonde você pensa que pode ter apenas uma instância de algo, em uma escala infinita, não vai dar certo. Com algumas exceções, seus estilos devem sempre usar classes.</h6>  
   </br>
 
 > 2 - Mantenha os arquivos de um componente no mesmo lugar
