@@ -1,5 +1,5 @@
 ---
-title: "Estudando-Arquitetura-de-BancosdeDados"
+title: "Estudando Arquitetura de Bancos de Dados"
 date: 2023-07-16
 ---
 
