@@ -1,5 +1,5 @@
 ---
-title: "Aprendendo-A-Aprender"
+title: "Aprendendo a Aprender"
 date: 2023-07-12
 ---
 # Aprendendo a aprender: 8 ensinamentos pra vida  🖋️
