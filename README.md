@@ -1,22 +1,26 @@
-# Meu blog Digital College
-
-Rápida descrição do objetivo de fazer esse projeto
+<!--Rápida descrição do objetivo de fazer esse projeto -->
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Blog**
+| :sparkles: Nome        | **Blog DC23**
 | :label: Tecnologias | Markdown, Jekyll
 | :rocket: URL         | https://jmtannus.github.io/Blog-DC23/
 | :fire: Desafio   | 
 
+<br>
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![1280×640 image](https://github.com/jmtannus/Blog-DC23/assets/61756665/09808be6-03a6-4e1c-bcc8-fd3c6de70882)
+
+## Meu blog feito na Digital College 👇
+
+<br>
+
+![1280×640 image](https://github.com/jmtannus/Blog-DC23/assets/61756665/7c49f4fe-7e74-4002-8edd-aafac12fb3ac)
+
+
 
 ## Detalhes do projeto! 👇
 
 <!--Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos. -->
-
-
 
 <header>
 
