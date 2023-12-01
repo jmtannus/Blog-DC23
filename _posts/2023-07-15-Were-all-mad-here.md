@@ -1,5 +1,5 @@
 ---
-title: "Were-all-mad-here"
+title: "Were all mad here"
 date: 2023-07-15
 ---
 
