@@ -3,7 +3,7 @@ title: "Padrões GoF"
 date: 2023-09-28
 ---
 
-# Oba! Adoro! 🥰✨Falando sobre Padrões de Projeto✨
+# Oba! Adoro! 🥰 Falando sobre Padrões de Projeto 🖋️
 
 Vocês já ouviram falar de GoF (Gang of Four), ou seja, " a gangue dos quatro "?
 
