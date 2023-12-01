@@ -14,9 +14,7 @@
 
 <br>
 
-![1280×640 image](https://github.com/jmtannus/Blog-DC23/assets/61756665/7c49f4fe-7e74-4002-8edd-aafac12fb3ac)
-
-
+![1280×640 image](https://github.com/jmtannus/Blog-DC23/assets/61756665/4b75e9b8-e682-45c3-98b3-575970eb91c0)
 
 ## Detalhes do projeto! 👇
 
