@@ -1,4 +1,5 @@
-<!--Rápida descrição do objetivo de fazer esse projeto -->
+<!--Rápida descrição do objetivo de fazer esse projeto 
+usar como padrão-->
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
